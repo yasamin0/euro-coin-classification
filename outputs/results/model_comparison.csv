@@ -1,0 +1,7 @@
+model,test_accuracy,mean_absolute_monetary_error_cents,maximum_monetary_error_cents
+Logistic Regression,0.68125,8.15625,180
+Cost-sensitive Logistic Regression,0.6875,7.11875,180
+Custom CNN,0.6125,5.0125,48
+Cost-sensitive Custom CNN,0.58125,5.675,95
+MobileNetV2,0.78125,2.19375,40
+Cost-sensitive MobileNetV2,0.7875,2.51875,40
